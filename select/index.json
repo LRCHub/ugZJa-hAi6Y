@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "瞳そらさないで",
+  "base_artist": "DEEN",
+  "createdAt": "2026-02-21T07:13:01.558171Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "瞳そらさないで",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/01_瞳そらさないで_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "瞳そらさないで(DEEN The Best ｷｾｷ)",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/02_瞳そらさないで(DEEN_The_Best_キセキ)_DEEN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "瞳そらさないで",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/03_瞳そらさないで_DEEN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "瞳そらさないで (DEEN The Best DX)",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/04_瞳そらさないで_(DEEN_The_Best_DX)_DEEN.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "瞳そらさないで (DEEN The Best DX) -off vocal version-",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/05_瞳そらさないで_(DEEN_The_Best_DX)_-off_vocal_version-_DEEN.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "瞳そらさないで〜'09+Ukulele Style〜",
+      "artist": "DEEN",
+      "has_synced": true,
+      "path": "select/06_瞳そらさないで〜'09+Ukulele_Style〜_DEEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "瞳そらさないで",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/pl_01_瞳そらさないで_DEEN.txt"
+    }
+  ]
+}
